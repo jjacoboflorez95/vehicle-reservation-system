@@ -79,10 +79,16 @@ Validation errors are displayed in real time, preventing form submission until a
 - **Email Notification**:
   - Send confirmation emails upon successful reservation requests.
 
+## 🎭 Screenshots  
+
+| Vehicle Reservation System |  
+|--------------|  
+| ![Vehicle Reservation System](imgs/github/vehicle-reservation-system.png) |
+
 ## 📜 License
 
 This project was developed for educational purposes as part of a **college assignment**.
 
 ---
 
-💼 **Author:** Juan Jacobo Florez Monroy | 🚀 Portfolio: [Portfolio Website or GitHub]
+💼 **Author:** Juan Jacobo Florez Monroy | 🚀 **GitHub**: [GitHub](https://github.com/jjacoboflorez95)
